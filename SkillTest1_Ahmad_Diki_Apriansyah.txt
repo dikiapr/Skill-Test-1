@@ -1,0 +1,4 @@
+Nama: Ahmad Diki Apriansyah
+Umur: 25 Tahun
+Stack: Frontend
+Bahasa Pemrograman: Javascript
